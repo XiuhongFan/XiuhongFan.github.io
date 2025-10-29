@@ -1,0 +1,59 @@
+# 📄 Resume — Xiuhong Fan
+**Email:** [xf2302@cumc.columbia.edu](mailto:xf2302@cumc.columbia.edu)  
+**Phone:** 614-397-8128  
+
+---
+
+## 🎓 Education
+
+**Columbia University**, New York, NY *(Sep 2025 – May 2027)*  
+**Master of Public Health, Biostatistics**  
+- Core Courses: Probability, Data Science, Statistical Inference, Biostatistical Methods, Statistical Genetics Modeling, Advanced Statistical and Computational Methods in Genetics & Genomics
+
+**Michigan State University**, East Lansing, MI *(Sep 2021 – May 2025)*  
+**B.S. in Biochemistry and Molecular Biology** — GPA: 3.667 (Dean’s List for 5 semesters)
+
+---
+
+## 💼 Internship Experience
+
+**Pfizer China – Clinical Biostatistics Intern** *(Jun – Aug 2024)*  
+- Participated in a Phase III clinical trial evaluating crisaborole ointment (Staquis) for atopic dermatitis.  
+- Conducted preliminary regression analyses to identify critical efficacy factors.  
+- Applied Kaplan–Meier, Cox proportional hazards, and log-rank tests for survival analysis.  
+- Generated data visualizations and summary reports using R and SAS.  
+- Researched adaptive design methods and missing-data strategies under senior mentorship.
+
+---
+
+## 🔬 Research Experience
+
+**Protein Purification Experiment** *(Apr 2024, Michigan State University)*  
+Advisor: Professors Weise and Vieille  
+- Purified histidine-tagged *mCherry* protein from *E. coli* via nickel affinity chromatography.  
+- Quantified concentration via spectrophotometry and analyzed yield data in R.  
+- Visualized results to optimize purification efficiency.
+
+**Factors Influencing the Activity of Glucose-6-Phosphate Dehydrogenase** *(Mar 2024, Michigan State University)*  
+Advisor: Professor Ming Zhang  
+- Investigated pH effects on G6PD enzyme activity using designed titration experiments.  
+- Applied confidence interval estimation and regression modeling to assess enzyme behavior.  
+- Generated pH titration curves in R and ORIGIN; used derivative analyses to find optimal pH.  
+
+---
+
+## 🧠 Skills
+
+- **Programming:** R, Python, SPSS, Matlab, SAS  
+- **Statistical Methods:** Regression Models, Survival Analysis (Kaplan–Meier & Cox), Hypothesis Testing, t-Tests, Confidence Intervals  
+- **Laboratory Techniques:** Bacterial Culture, DNA Extraction & Purification, PCR, Gel Electrophoresis  
+
+---
+
+## 🤝 Volunteer Service
+
+**Volunteer — Wharton Center, Michigan State University** *(Sep 2022 – May 2025)*  
+- Organized 50+ events with over 10,000 attendees, demonstrating strong leadership.  
+- Collaborated across teams, improving operational efficiency by 15%.  
+- Supported accessibility for elderly and special-needs attendees (95% satisfaction rate).  
+- Managed multiple concurrent tasks during peak events with a 98% quality rating.  

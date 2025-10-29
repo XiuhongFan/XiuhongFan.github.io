@@ -1,0 +1,26 @@
+name: "Xiuhong Fan Website"
+output_dir: "."
+
+navbar:
+  title: "Xiuhong Fan"
+  left:
+    - text: "Home"
+      href: Home.html
+    - text: "About"
+      href: About.html
+    - text: "Résumé"
+      href: Resume.html
+
+  right:
+    - icon: fa-envelope fa-lg
+      href: mailto:xf2302@cumc.columbia.edu
+    - icon: fa-github fa-lg
+      href: https://github.com/XiuhongFan
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/xiuhong-fan-77b010397/
+
+output:
+  html_document:
+    theme: cerulean        
+    highlight: textmate    
+    toc: false             

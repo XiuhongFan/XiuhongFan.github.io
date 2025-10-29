@@ -1,0 +1,26 @@
+
+# 💡 About Me
+
+I have an academic background that combines **biochemistry**, **statistics**, and **data science** — allowing me to approach biomedical questions from both experimental and computational perspectives.  
+My curiosity for quantitative problem-solving began in the lab and has evolved toward developing reproducible, data-driven approaches to public health research.
+
+At Columbia, I focus on **statistical genetics**, **survival analysis**, and **advanced biostatistical modeling**.  
+I aim to contribute to interdisciplinary projects that connect **biomedical data**, **population health**, and **data visualization**.
+
+---
+
+## 🌱 Outside of Work
+
+- 📸 Enjoy photography, travel, and exploring NYC’s food and art scenes  
+- 📊 Love designing clean visuals and learning new R packages  
+- 🐱 Proud cat owner  
+
+---
+
+### 📫 Get in Touch
+
+- **Email:** [xf2302@cumc.columbia.edu](mailto:xf2302@cumc.columbia.edu)  
+- **GitHub:** [github.com/XiuhongFan](https://github.com/XiuhongFan)  
+- **LinkedIn:** [linkedin.com/in/xiuhongfan](https://www.linkedin.com/in/xiuhong-fan-77b010397/)
+
+Learn more about my academic background and experience on the **Résumé** page.
