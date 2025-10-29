@@ -1,0 +1,76 @@
+---
+title: "NY NOAA Weather Dashboard"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: rows
+    vertical_layout: fill
+runtime: shiny
+---
+
+```{r setup, include=FALSE}
+library(dplyr)
+library(ggplot2)
+library(plotly)
+library(lubridate)
+library(p8105.datasets)
+
+data("ny_noaa")
+
+# Clean data and sample to speed up plotting
+set.seed(123)
+ny_sample <- ny_noaa %>%
+  filter(!is.na(tmax), !is.na(tmin), !is.na(prcp)) %>%
+  sample_n(5000) %>%
+  mutate(year = year(date), month = month(date, label = TRUE))
+```
+# Scatterplot
+```{r}
+p1 <- ny_sample %>%
+plot_ly(
+x = ~tmin, y = ~tmax,
+color = ~month,
+type = 'scatter', mode = 'markers',
+marker = list(size = 6, opacity = 0.6)
+) %>%
+layout(
+title = "Daily Max vs Min Temperatures (Sampled)",
+xaxis = list(title = "Min Temperature (°C)"),
+yaxis = list(title = "Max Temperature (°C)")
+)
+p1
+```
+# Bar Plot
+```{r}
+prcp_month <- ny_sample %>%
+group_by(month) %>%
+summarise(mean_prcp = mean(prcp, na.rm = TRUE))
+
+p2 <- prcp_month %>%
+plot_ly(
+x = ~month, y = ~mean_prcp,
+type = "bar",
+marker = list(color = "skyblue")
+) %>%
+layout(
+title = "Average Monthly Precipitation",
+xaxis = list(title = "Month"),
+yaxis = list(title = "Precipitation (tenths of mm)")
+)
+p2
+```
+# Box Plot
+```{r}
+p4 <- ny_sample %>%
+plot_ly(
+x = ~month, y = ~tmax,
+type = 'box',
+color = ~month
+) %>%
+layout(
+title = "Distribution of Max Temperatures by Month",
+xaxis = list(title = "Month"),
+yaxis = list(title = "Max Temperature (°C)")
+)
+p4
+
+```
