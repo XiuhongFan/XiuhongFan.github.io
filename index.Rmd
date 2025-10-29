@@ -1,0 +1,35 @@
+
+# 👋 Welcome
+
+Hello! My name is **Xiuhong Fan**, and I’m pursuing a **Master of Public Health in Biostatistics** at **Columbia University**.  
+I’m passionate about **data-driven public health**, **statistical modeling**, and **reproducible data analysis**. My work bridges biological science and data science to inform better healthcare decisions.
+
+---
+
+## 💡 Research & Professional Interests
+
+- Biostatistical methods for public health data  
+- Statistical genetics and computational biology  
+- Reproducible research and data visualization using R  
+- Applications of data science in clinical and epidemiological studies  
+
+---
+
+## 🧩 Selected Projects
+
+**Clinical Trial Modeling (Pfizer China)**  
+Applied regression and survival analysis to evaluate treatment efficacy in dermatology trials.
+
+**Protein Purification and Kinetics Analysis**  
+Optimized enzyme purification workflow and visualized kinetic data using R.
+
+---
+
+## 🌐 Quick Links
+
+- **GitHub:** [github.com/XiuhongFan](https://github.com/XiuhongFan)  
+- **Email:** [xf2302@cumc.columbia.edu](mailto:xf2302@cumc.columbia.edu)  
+- **LinkedIn:** [linkedin.com/in/xiuhongfan](https://www.linkedin.com/in/xiuhong-fan-77b010397/)
+
+
+

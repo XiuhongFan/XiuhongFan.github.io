@@ -5,7 +5,7 @@ navbar:
   title: "Xiuhong Fan"
   left:
     - text: "Home"
-      href: Home.html
+      href: index.html
     - text: "About"
       href: About.html
     - text: "Résumé"
@@ -21,6 +21,6 @@ navbar:
 
 output:
   html_document:
-    theme: cerulean        
-    highlight: textmate    
-    toc: false             
+    theme: cerulean
+    highlight: textmate
+    toc: false
