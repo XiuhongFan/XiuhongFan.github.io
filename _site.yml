@@ -10,6 +10,8 @@ navbar:
       href: About.html
     - text: "Résumé"
       href: Resume.html
+    - text: "Weather Dashboard"
+      href: NY-NOAA-Weather.html
 
   right:
     - icon: fa-envelope fa-lg
@@ -24,3 +26,5 @@ output:
     theme: cerulean
     highlight: textmate
     toc: false
+
+
